@@ -1,0 +1,110 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Buy groceries",
+            "completed": false,
+            "dueDate": "2023-09-30"
+        },
+        {
+            "id": 2,
+            "title": "Finish project report",
+            "completed": true,
+            "dueDate": "2023-10-15"
+        },
+        {
+            "id": 3,
+            "title": "Call the plumber",
+            "completed": false,
+            "dueDate": "2023-09-25"
+        },
+        {
+            "id": 4,
+            "title": "Go for a run",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "title": "Pay the bills",
+            "completed": false,
+            "dueDate": "2023-10-05"
+        },
+        {
+            "id": 6,
+            "title": "Read a book",
+            "completed": false
+        },
+        {
+            "id": 7,
+            "title": "Clean the garage",
+            "completed": false
+        },
+        {
+            "id": 8,
+            "title": "Plan a vacation",
+            "completed": false
+        },
+        {
+            "id": 9,
+            "title": "Write a thank-you note",
+            "completed": false
+        },
+        {
+            "id": 10,
+            "title": "Attend a meeting",
+            "completed": true,
+            "dueDate": "2023-09-20"
+        },
+        {
+            "id": 11,
+            "title": "Paint the living room",
+            "completed": false
+        },
+        {
+            "id": 12,
+            "title": "Learn a new language",
+            "completed": false
+        },
+        {
+            "id": 13,
+            "title": "Fix the leaky faucet",
+            "completed": false
+        },
+        {
+            "id": 14,
+            "title": "Organize the closet",
+            "completed": false
+        },
+        {
+            "id": 15,
+            "title": "Bake a cake",
+            "completed": false
+        },
+        {
+            "id": 16,
+            "title": "Take the dog for a walk",
+            "completed": false
+        },
+        {
+            "id": 17,
+            "title": "Submit a report",
+            "completed": true,
+            "dueDate": "2023-09-22"
+        },
+        {
+            "id": 18,
+            "title": "Plant flowers in the garden",
+            "completed": false
+        },
+        {
+            "id": 19,
+            "title": "Watch a movie",
+            "completed": false
+        },
+        {
+            "id": 20,
+            "title": "Start a new project",
+            "completed": false
+        }
+    ]
+}

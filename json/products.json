@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "price": 699.99,
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "price": 1099.99,
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "Coffee Maker",
+            "price": 79.99,
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "Bicycle",
+            "price": 549.00,
+            "available": false
+        },
+        {
+            "id": 5,
+            "name": "Television",
+            "price": 899.99,
+            "available": true
+        },
+        {
+            "id": 6,
+            "name": "Washing Machine",
+            "price": 699.00,
+            "available": true
+        },
+        {
+            "id": 7,
+            "name": "Refrigerator",
+            "price": 1199.00,
+            "available": true
+        },
+        {
+            "id": 8,
+            "name": "Headphones",
+            "price": 249.99,
+            "available": true
+        },
+        {
+            "id": 9,
+            "name": "Digital Camera",
+            "price": 649.00,
+            "available": false
+        },
+        {
+            "id": 10,
+            "name": "Gaming Console",
+            "price": 499.99,
+            "available": true
+        },
+        {
+            "id": 11,
+            "name": "Blender",
+            "price": 89.95,
+            "available": true
+        },
+        {
+            "id": 12,
+            "name": "Fitness Tracker",
+            "price": 129.99,
+            "available": true
+        },
+        {
+            "id": 13,
+            "name": "Desk Chair",
+            "price": 349.00,
+            "available": false
+        },
+        {
+            "id": 14,
+            "name": "Backpack",
+            "price": 59.99,
+            "available": true
+        },
+        {
+            "id": 15,
+            "name": "Running Shoes",
+            "price": 119.00,
+            "available": true
+        },
+        {
+            "id": 16,
+            "name": "Smartwatch",
+            "price": 299.00,
+            "available": true
+        },
+        {
+            "id": 17,
+            "name": "Microwave Oven",
+            "price": 129.99,
+            "available": true
+        },
+        {
+            "id": 18,
+            "name": "Digital Projector",
+            "price": 799.99,
+            "available": false
+        },
+        {
+            "id": 19,
+            "name": "Sofa",
+            "price": 799.00,
+            "available": true
+        },
+        {
+            "id": 20,
+            "name": "Guitar",
+            "price": 399.00,
+            "available": true
+        }
+    ]
+}
